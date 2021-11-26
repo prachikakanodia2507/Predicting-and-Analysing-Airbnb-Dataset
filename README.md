@@ -6,10 +6,11 @@ Airbnb has become increasingly popular among travelers for accommodation across 
 1. To predict and validate the price of different cities of different continents and compared it to recommend the best according to the need of Airbnb users and non-users.
 2. To apply sentimental analysis on Airbnb dataset of different cities.
 3. To predict the spike in accommodation prices during peak and off-peak seasons of different cities. 
-
-# Dataset
-We have used the datset of Boston, Amsterdam, Hong Kong and Athens from the official site of airbnb 
+# Dataset :
+We have used the dataset of Boston, Amsterdam, Hong Kong and Athens from the official site of Airbnb i.e.,
 http://insideairbnb.com/get-the-data.html
+
+
 
 HAPPY LEARNING!! ✌😇
 
